@@ -1,0 +1,24 @@
+.label {
+    font-size: 20px;
+    font-family: cursive;
+    color: rgba(3, 9, 20, 0.493);
+  }
+  .btn {
+    padding-top: 15px;
+    padding: 0.5rem 1rem;
+    background: rgba(21, 52, 82, 0.493);
+    color: white;
+    border: none;
+    font-size: 20px;
+  }
+  .profile-card {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    border-radius: 30px;
+    padding: 5rem;
+    background-color: #fdfdfd;
+  }
+  
